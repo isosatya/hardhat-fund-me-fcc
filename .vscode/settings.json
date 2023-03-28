@@ -1,0 +1,5 @@
+{
+    "solidity.defaultCompiler": "embedded",
+    "solidity.compileUsingRemoteVersion": "",
+    "solidity.compileUsingLocalVersion": "/Users/andres/Documents/Projectos/hh-fcc/hardhat-fund-me-fcc/soljson-v0.6.0+commit.26b70077.js"
+}
